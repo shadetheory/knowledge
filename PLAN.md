@@ -2,7 +2,7 @@
 
 ## Project
 
-**Repo**: `jordanpartridge/knowledge` — [github.com/jordanpartridge/knowledge](https://github.com/jordanpartridge/knowledge)
+**Repo**: `shadetheory/knowledge` — [github.com/shadetheory/knowledge](https://github.com/shadetheory/knowledge)
 **Location on Mac**: `~/Sites/jp-knowledge/`
 **Stack**: Laravel Zero (standalone CLI), Pest v4, PHP 8.3+
 
@@ -179,7 +179,7 @@ opencode supports MCP servers via `POST /mcp/{name}/connect`. If we register thi
 
 ```bash
 # Clone
-git clone git@github.com:jordanpartridge/knowledge.git ~/Sites/jp-knowledge
+git clone git@github.com:shadetheory/knowledge.git ~/Sites/jp-knowledge
 cd ~/Sites/jp-knowledge
 
 # Install
@@ -211,7 +211,7 @@ export PREFRONTAL_API_TOKEN="LWz360AtJGKAsN0UtBGE4qnClaa5CT8J8RI23NA8"
 
 ## Related GitHub Resources
 
-- **This repo**: [jordanpartridge/knowledge](https://github.com/jordanpartridge/knowledge)
+- **This repo**: [shadetheory/knowledge](https://github.com/shadetheory/knowledge)
 - **conduit-knowledge**: [conduit-ui/knowledge](https://github.com/conduit-ui/knowledge) — existing CLI (SemanticSearchService is stubbed)
 - **prefrontal-cortex**: Knowledge store API (8,500+ entries)
 - **synapse-sentinel**: Quality gate system
